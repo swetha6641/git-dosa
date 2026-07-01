@@ -5,7 +5,4 @@ jjjj
 karam dosa
 --------------
 jjjjjjjjj
-
-#EGG * KARAM DOSA
-WITH CHUTNRY
-SAMBAR * CHUTNENY
+egg
